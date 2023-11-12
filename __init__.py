@@ -30,4 +30,4 @@ Note:
 Ensure you have the necessary API keys and credentials for using specific services like Azure, AWS, and Hugging Face.
 
 """
-from .main import recognize_speech_from_mic, speak_text
+from .main import recognize_speech_from_mic, recognize_speech_from_mic_text, translate_speech, speak_text, process_speech, huggingface_speech_recognize, aws_speech_recognize, azure_speech_recognize, google_speech_recognize
