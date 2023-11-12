@@ -27,10 +27,10 @@ Here’s how to use `rtst` to recognize, translate, and vocalize speech:
 The package provides a `rtst` function, which takes care of the entire speech processing workflow:
 
 ```python
-from rtst import process_speech
+import rtst
 
 # Call the function with your preferred service and language code
-process_speech(service='google', language='en-US')
+rtst.process_speech()
 ```
 
 This function will:
