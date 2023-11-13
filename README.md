@@ -1,6 +1,10 @@
 
 # Real Time Speech Translator (rtst)
-
+### 🛡️ Badges
+[![GitHub Repo stars](https://img.shields.io/github/stars/SweatyCrayfish/Real-Time-Speech-Translator-rtst?style=social)](https://github.com/SweatyCrayfish/Real-Time-Speech-Translator-rtst)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SweatyCrayfish/Real-Time-Speech-Translator-rtst/main/LICENCE.md)
+[![PyPi](https://img.shields.io/badge/PyPi-Page-blue)](https://pypi.org/project/rtst/)
+[![Downloads](https://pepy.tech/badge/rtst)](https://pepy.tech/project/rtst)
 The `rtst` is a Python package for comprehensive speech processing. It integrates speech recognition, language detection, translation, and text-to-speech functionalities into a single, easy-to-use function.
 
 ## Features
